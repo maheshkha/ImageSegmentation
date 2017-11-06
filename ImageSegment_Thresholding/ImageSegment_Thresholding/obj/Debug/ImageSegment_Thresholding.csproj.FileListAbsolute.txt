@@ -1,0 +1,10 @@
+c:\users\mkhadatare\documents\visual studio 2013\Projects\ImageSegment_Thresholding\ImageSegment_Thresholding\bin\Debug\ImageSegment_Thresholding.exe.config
+c:\users\mkhadatare\documents\visual studio 2013\Projects\ImageSegment_Thresholding\ImageSegment_Thresholding\bin\Debug\ImageSegment_Thresholding.exe
+c:\users\mkhadatare\documents\visual studio 2013\Projects\ImageSegment_Thresholding\ImageSegment_Thresholding\bin\Debug\ImageSegment_Thresholding.pdb
+c:\users\mkhadatare\documents\visual studio 2013\Projects\ImageSegment_Thresholding\ImageSegment_Thresholding\obj\Debug\ImageSegment_Thresholding.Form1.resources
+c:\users\mkhadatare\documents\visual studio 2013\Projects\ImageSegment_Thresholding\ImageSegment_Thresholding\obj\Debug\ImageSegment_Thresholding.Properties.Resources.resources
+c:\users\mkhadatare\documents\visual studio 2013\Projects\ImageSegment_Thresholding\ImageSegment_Thresholding\obj\Debug\ImageSegment_Thresholding.csproj.GenerateResource.Cache
+c:\users\mkhadatare\documents\visual studio 2013\Projects\ImageSegment_Thresholding\ImageSegment_Thresholding\obj\Debug\ImageSegment_Thresholding.exe
+c:\users\mkhadatare\documents\visual studio 2013\Projects\ImageSegment_Thresholding\ImageSegment_Thresholding\obj\Debug\ImageSegment_Thresholding.pdb
+C:\Users\mkhadatare\Documents\Visual Studio 2013\Projects\ImageSegment_Thresholding\ImageSegment_Thresholding\bin\Debug\BitMiracle.LibTiff.NET40.dll
+C:\Users\mkhadatare\Documents\Visual Studio 2013\Projects\ImageSegment_Thresholding\ImageSegment_Thresholding\bin\Debug\BitMiracle.LibTiff.NET40.xml
